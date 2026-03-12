@@ -19,7 +19,7 @@ Powered by the [Jolpica API](https://jolpi.ca) (free, no API key required). Data
 - Jolpica F1 API
 
 ## Live site
-[yourusername.github.io/f1-tracker-2026](https://yourusername.github.io/f1-tracker-2026)
+[aestinar.github.io/f1-tracker-2026](https://yourusername.github.io/f1-tracker-2026)
 
 ---
 *Crafted by Aaron E · Made with Claude*
